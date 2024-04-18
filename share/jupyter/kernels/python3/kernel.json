@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/udaysah/anaconda3/envs/machine_learning_basics/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}

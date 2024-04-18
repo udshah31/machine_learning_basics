@@ -1,0 +1,13 @@
+prefix=/Users/udaysah/anaconda3/envs/machine_learning_basics
+exec_prefix=/Users/udaysah/anaconda3/envs/machine_learning_basics
+libdir=/Users/udaysah/anaconda3/envs/machine_learning_basics/lib
+sharedlibdir=/Users/udaysah/anaconda3/envs/machine_learning_basics/lib
+includedir=/Users/udaysah/anaconda3/envs/machine_learning_basics/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
